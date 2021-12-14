@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brenton-obrien
-- 👀 I’m interested in beginning my journey into learning python and beyond
-- 🌱 I’m currently learning the basics of python
+- 👀 I’m interested in python, blockchain development, and andriod app creation
+- 🌱 I’m currently practicing what I have learnt by creating projects that test my skills and uploading them to GITHUB
 - 💞️ I’m looking to collaborate on ..unsure...but I am happy to continue gaining knowledge, where ever that leads me
 - 📫 How to reach me, email: brenton_obrien94@hotmail.com
 
